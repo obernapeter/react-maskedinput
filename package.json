@@ -23,13 +23,13 @@
     "prop-types": "^15.5.7"
   },
   "peerDependencies": {
-    "react": "^0.14.9 || ^15.3.0 || ^16.0.0"
+    "react": "^0.14.9 || ^15.3.0 || ^16.0.0 || ^17.0.0"
   },
   "devDependencies": {
-    "eslint-config-jonnybuchanan": "5.0.x",
-    "nwb": "0.21.x",
-    "react": "16.x",
-    "react-dom": "16.x"
+    "eslint-config-jonnybuchanan": "6.0.x",
+    "nwb": "0.25.x",
+    "react": "17.x",
+    "react-dom": "17.x"
   },
   "author": "Jonny Buchanan <jonathan.buchanan@gmail.com>",
   "homepage": "https://github.com/insin/react-maskedinput",
